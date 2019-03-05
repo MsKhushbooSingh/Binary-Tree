@@ -1,3 +1,5 @@
+#Python code to check whether two trees are mirror of each other.
+
 class newNode: 
     def __init__(self, data):  
         self.data = data  
